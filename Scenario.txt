@@ -1,0 +1,6 @@
+ScenarioName=consc_scenario_widSJT
+Node=node.txt
+Link=link.txt
+totalFlow=30000
+capacityBasis=width
+calibrationBasis=flow
